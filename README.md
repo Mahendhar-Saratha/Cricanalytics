@@ -1,1 +1,1 @@
-# Cricanalytics
+# Cricket Analytics - Statistical Approach
